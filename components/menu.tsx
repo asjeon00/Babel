@@ -17,7 +17,7 @@ export default function Menu({ className }: { className?: string }) {
         <Image
           alt="Card background"
           className="object-cover rounded-xl flex-row flex-col-none"
-          src="/imgs/recruit.jpeg"
+          src="/Imgs/recruit.jpg"
           width={270}
         />
         </Card>
@@ -31,7 +31,7 @@ export default function Menu({ className }: { className?: string }) {
         <Image
           alt="Card background"
           className="object-cover rounded-xl"
-          src="/imgs/battle.jpeg"
+          src="/Imgs/battle.jpg"
           width={270}
         />
         </Card>
