@@ -52,10 +52,14 @@ export default function Home() {
     // </main>
     <main>
       <div className="relative flex min-h-screen flex-col items-center justify-center">
-        <div className="absolute -left-10 ">
+        <div className="absolute left-10 ">
           <Menu />
           {/* <Testcard /> */}
         </div>
+        <div className="absolute right-10">
+          <Menu />
+        </div>
+
       <ServerSide />
       </div>
     </main>

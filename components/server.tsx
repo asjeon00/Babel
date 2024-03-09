@@ -31,13 +31,13 @@ export default function ServerSide({ className }: { className?: string }) {
             
         </p>
 
-        <div className="flex justify-left space-x-5 pt-10 mt-10 border-t border-gray-300 w-full max-w-xl text-gray-600">
+        <div className="flex justify-center space-x-5 pt-10 mt-10 border-t border-gray-300 w-full max-w-xl text-gray-600">
             
             <Link
-            href="https://postgres-kysely.vercel.app/"
+            href=""
             className="font-medium underline underline-offset-4 hover:text-black transition-colors"
             >
-            Kysely
+            Zynaria
             </Link>
         </div>
       </div>
